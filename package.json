@@ -1,0 +1,22 @@
+{
+  "name": "koajs",
+  "version": "1.0.0",
+  "description": "My first koa js application",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "koa",
+    "js",
+    "server",
+    "side",
+    "node"
+  ],
+  "author": "Gbenga Elijah Oyetade",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.5.0"
+  }
+}
